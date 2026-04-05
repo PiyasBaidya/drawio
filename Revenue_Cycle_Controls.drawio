@@ -52,7 +52,7 @@
             <mxPoint x="104.71428571428567" y="608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-31" parent="rHUZ_EXfs7t5VitBIqsM-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="" vertex="1">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-31" parent="rHUZ_EXfs7t5VitBIqsM-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Credit Check Approved?" vertex="1">
           <mxGeometry height="80" width="150" x="30" y="490" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-3" parent="rHUZ_EXfs7t5VitBIqsM-1" style="swimlane;startSize=20;html=1;fillColor=light-dark(#6a00ff, #f14b53);strokeColor=light-dark(#3700CC,#FFFFFF);fontColor=#ffffff;" value="Warehouse Department" vertex="1">
