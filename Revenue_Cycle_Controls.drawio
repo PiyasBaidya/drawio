@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=light-dark(#d80073, #f7db26);strokeColor=light-dark(#A50040,#A60000);fontColor=#ffffff;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
-          <mxGeometry height="850" width="1110" as="geometry">
+          <mxGeometry height="850" width="2020" as="geometry">
             <mxRectangle height="30" width="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -61,36 +61,50 @@
           <mxGeometry height="62" width="220" x="280" y="507" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-3" parent="rHUZ_EXfs7t5VitBIqsM-1" style="swimlane;startSize=20;html=1;fillColor=light-dark(#6A00FF,#67AB9F);strokeColor=light-dark(#3700CC,#FFFFFF);fontColor=#ffffff;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
-          <mxGeometry height="830" width="370" x="520" y="20" as="geometry" />
+          <mxGeometry height="830" width="1180" x="520" y="20" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-67" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="698" as="targetPoint" />
+            <mxPoint x="180" y="698" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-62" parent="rHUZ_EXfs7t5VitBIqsM-3" style="html=1;dashed=0;whiteSpace=wrap;" value="Sales Order Received by Warehouse&amp;nbsp;" vertex="1">
-          <mxGeometry height="62" width="220" x="90" y="530" as="geometry" />
+          <mxGeometry height="62" width="220" x="80" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-70" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="Yes - In Stock">
-          <mxGeometry relative="1" x="-0.0055" y="-8" as="geometry">
-            <mxPoint y="-16" as="offset" />
-            <mxPoint x="340" y="718.4705882352941" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-71" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-72" value="No - Out of Stock">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-71" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="No - Out of Stock">
           <mxGeometry relative="1" x="0.0609" y="49" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="190" y="760" as="targetPoint" />
+            <mxPoint x="180" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-77" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-73" value="Yes - In Stock">
+          <mxGeometry relative="1" x="-0.0667" y="10" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-66" parent="rHUZ_EXfs7t5VitBIqsM-3" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" value="Inventory&amp;nbsp;&lt;div&gt;Available?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="150" x="115" y="630" as="geometry" />
+          <mxGeometry height="80" width="150" x="105" y="630" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-72" parent="rHUZ_EXfs7t5VitBIqsM-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#0050EF,#FF0000);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" value="&lt;b&gt;Escalate to Manager -&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Back-Order or Cancel&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="62" width="220" x="80" y="760" as="geometry" />
         </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-73" parent="rHUZ_EXfs7t5VitBIqsM-3" style="html=1;dashed=0;whiteSpace=wrap;" value="Goods Picked&amp;nbsp;&lt;div&gt;&amp;amp; Packed&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="220" x="390" y="639" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-90" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-78" parent="rHUZ_EXfs7t5VitBIqsM-3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;direction=east;flipH=1;" value="Sales Order Generated" vertex="1">
+          <mxGeometry height="75" width="150" x="680" y="639" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-82" parent="rHUZ_EXfs7t5VitBIqsM-3" style="html=1;dashed=0;whiteSpace=wrap;" value="Shipping Authorization Verified" vertex="1">
+          <mxGeometry height="62" width="220" x="910" y="645.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-85" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.008;entryY=0.401;entryDx=0;entryDy=0;entryPerimeter=0;" target="rHUZ_EXfs7t5VitBIqsM-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-4" parent="rHUZ_EXfs7t5VitBIqsM-1" style="swimlane;startSize=20;html=1;fillColor=light-dark(#f0a30a, #f5a432);strokeColor=light-dark(#BD7000,#FFFFFF);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Billing/Accounts Receivable&lt;/font&gt;" vertex="1">
-          <mxGeometry height="830" width="220" x="890" y="20" as="geometry" />
+          <mxGeometry height="830" width="320" x="1700" y="20" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-64" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-1" source="rHUZ_EXfs7t5VitBIqsM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-62">
           <mxGeometry relative="1" as="geometry" />
