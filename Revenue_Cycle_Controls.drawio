@@ -54,7 +54,7 @@
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-42" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" target="rHUZ_EXfs7t5VitBIqsM-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-54" parent="rHUZ_EXfs7t5VitBIqsM-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#0050EF,#FF0000);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" value="Order Rejected - Customer Notified" vertex="1">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-54" parent="rHUZ_EXfs7t5VitBIqsM-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#0050EF,#FF0000);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" value="&lt;b&gt;Order Rejected - Customer Notified&lt;/b&gt;" vertex="1">
           <mxGeometry height="62" width="220" x="15" y="628" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-61" parent="rHUZ_EXfs7t5VitBIqsM-2" style="html=1;dashed=0;whiteSpace=wrap;" value="Sales Order Authorized &amp;amp; Released to Warehouse" vertex="1">
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-62" parent="rHUZ_EXfs7t5VitBIqsM-3" style="html=1;dashed=0;whiteSpace=wrap;" value="Sales Order Received by Warehouse&amp;nbsp;" vertex="1">
-          <mxGeometry height="62" width="220" x="80" y="566" as="geometry" />
+          <mxGeometry height="62" width="220" x="90" y="530" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-70" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="Yes - In Stock">
           <mxGeometry relative="1" x="-0.0055" y="-8" as="geometry">
@@ -77,14 +77,17 @@
             <mxPoint x="340" y="718.4705882352941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-71" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="No - Out of Stock">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-71" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-3" source="rHUZ_EXfs7t5VitBIqsM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-72" value="No - Out of Stock">
           <mxGeometry relative="1" x="0.0609" y="49" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="190.52941176470586" y="800" as="targetPoint" />
+            <mxPoint x="190" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-66" parent="rHUZ_EXfs7t5VitBIqsM-3" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" value="Inventory&amp;nbsp;&lt;div&gt;Available?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="150" x="115" y="678" as="geometry" />
+          <mxGeometry height="80" width="150" x="115" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-72" parent="rHUZ_EXfs7t5VitBIqsM-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#0050EF,#FF0000);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" value="&lt;b&gt;Escalate to Manager -&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Back-Order or Cancel&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="220" x="80" y="760" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-4" parent="rHUZ_EXfs7t5VitBIqsM-1" style="swimlane;startSize=20;html=1;fillColor=light-dark(#f0a30a, #f5a432);strokeColor=light-dark(#BD7000,#FFFFFF);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Billing/Accounts Receivable&lt;/font&gt;" vertex="1">
           <mxGeometry height="830" width="220" x="890" y="20" as="geometry" />
