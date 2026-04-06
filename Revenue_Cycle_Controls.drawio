@@ -1,65 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="Page-1" id="ZtmFrplY7LRKWJ1rupmG">
-    <mxGraphModel dx="901" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=light-dark(#d80073, #f7db26);strokeColor=light-dark(#A50040,#000000);fontColor=#ffffff;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
-          <mxGeometry height="850" width="660" y="2" as="geometry">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=light-dark(#d80073, #f7db26);strokeColor=light-dark(#A50040,#A60000);fontColor=#ffffff;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
+          <mxGeometry height="850" width="960" y="2" as="geometry">
             <mxRectangle height="30" width="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-2" parent="rHUZ_EXfs7t5VitBIqsM-1" style="swimlane;startSize=20;html=1;fillColor=#1ba1e2;strokeColor=light-dark(#006EAF,#FFFFFF);fontColor=#ffffff;" value="Sales Department" vertex="1">
-          <mxGeometry height="830" width="240" y="20" as="geometry" />
+          <mxGeometry height="830" width="520" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-24" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-6">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-43" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-5" parent="rHUZ_EXfs7t5VitBIqsM-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#008a00;strokeColor=light-dark(#005700,#FFFF99);fontColor=#ffffff;" value="&lt;b&gt;START&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="55" y="30" as="geometry" />
+          <mxGeometry height="60" width="100" x="75" y="28" as="geometry" />
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-6" parent="rHUZ_EXfs7t5VitBIqsM-2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0;fillColor=#b0e3e6;strokeWidth=2;strokeColor=#0e8088;" value="Customer Places Order" vertex="1">
-          <mxGeometry height="60" width="190" x="10" y="138" as="geometry" />
-        </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-27" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-25">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-44" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="rHUZ_EXfs7t5VitBIqsM-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-9" parent="rHUZ_EXfs7t5VitBIqsM-2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Order Details Entered into System" vertex="1">
-          <mxGeometry height="70" width="160" x="25" y="238" as="geometry" />
+          <mxGeometry height="78" width="180" x="35" y="238" as="geometry" />
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-16" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.501;entryY=0.182;entryDx=0;entryDy=0;entryPerimeter=0;" target="rHUZ_EXfs7t5VitBIqsM-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-32" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.498;exitY=0.805;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="rHUZ_EXfs7t5VitBIqsM-31" value="">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-46" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="rHUZ_EXfs7t5VitBIqsM-31" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-25" parent="rHUZ_EXfs7t5VitBIqsM-2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;direction=east;flipH=1;" value="Sales Order Generated" vertex="1">
-          <mxGeometry height="80" width="120" x="45" y="363" as="geometry" />
+          <mxGeometry height="75" width="150" x="50" y="377.5" as="geometry" />
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-35" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-50" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="529.7619047619048" as="targetPoint" />
+            <mxPoint x="280" y="538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-36" connectable="0" parent="rHUZ_EXfs7t5VitBIqsM-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes - Approved" vertex="1">
-          <mxGeometry relative="1" x="-0.1272" y="-4" as="geometry">
-            <mxPoint x="3" y="-16" as="offset" />
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-51" connectable="0" parent="rHUZ_EXfs7t5VitBIqsM-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes - Approved" vertex="1">
+          <mxGeometry relative="1" x="-0.3435" y="4" as="geometry">
+            <mxPoint x="14" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-37" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="No - Rejected">
-          <mxGeometry relative="1" x="-0.0665" y="35" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="104.71428571428567" y="608" as="targetPoint" />
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-56" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rHUZ_EXfs7t5VitBIqsM-54" value="No - Rejected">
+          <mxGeometry relative="1" x="0.2" y="35" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHUZ_EXfs7t5VitBIqsM-31" parent="rHUZ_EXfs7t5VitBIqsM-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Credit Check Approved?" vertex="1">
-          <mxGeometry height="80" width="150" x="30" y="490" as="geometry" />
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-31" parent="rHUZ_EXfs7t5VitBIqsM-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Credit Check Approved?" vertex="1">
+          <mxGeometry height="80" width="150" x="50" y="498" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-39" parent="rHUZ_EXfs7t5VitBIqsM-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Customer Places Order" vertex="1">
+          <mxGeometry height="62" width="220" x="15" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-42" edge="1" parent="rHUZ_EXfs7t5VitBIqsM-2" source="rHUZ_EXfs7t5VitBIqsM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" target="rHUZ_EXfs7t5VitBIqsM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-54" parent="rHUZ_EXfs7t5VitBIqsM-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#0050EF,#FF0000);fontColor=#ffffff;strokeColor=light-dark(#000000,#000000);" value="Order Rejected - Customer Notified" vertex="1">
+          <mxGeometry height="62" width="220" x="15" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="rHUZ_EXfs7t5VitBIqsM-61" parent="rHUZ_EXfs7t5VitBIqsM-2" style="html=1;dashed=0;whiteSpace=wrap;" value="Sales Order Authorized &amp;amp; Released to Warehouse" vertex="1">
+          <mxGeometry height="62" width="220" x="290" y="507" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-3" parent="rHUZ_EXfs7t5VitBIqsM-1" style="swimlane;startSize=20;html=1;fillColor=light-dark(#6a00ff, #f14b53);strokeColor=light-dark(#3700CC,#FFFFFF);fontColor=#ffffff;" value="Warehouse Department" vertex="1">
-          <mxGeometry height="830" width="200" x="240" y="20" as="geometry" />
+          <mxGeometry height="830" width="220" x="520" y="20" as="geometry" />
         </mxCell>
         <mxCell id="rHUZ_EXfs7t5VitBIqsM-4" parent="rHUZ_EXfs7t5VitBIqsM-1" style="swimlane;startSize=20;html=1;fillColor=light-dark(#f0a30a, #f5a432);strokeColor=light-dark(#BD7000,#FFFFFF);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Billing/Accounts Receivable&lt;/font&gt;" vertex="1">
-          <mxGeometry height="830" width="220" x="440" y="20" as="geometry" />
+          <mxGeometry height="830" width="220" x="740" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
