@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="Page 1" id="ZtmFrplY7LRKWJ1rupmG">
-    <mxGraphModel dx="849" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,6 +134,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dJYUc57bpImzY5HQhhGf-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=light-dark(#FA6800,#FFFFFF);strokeColor=light-dark(#000000,#000000);swimlaneFillColor=light-dark(#FFFFFF,#001F3B);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Kissena Bakery - Revenue Cycle (Order-to-Cash)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="740" width="1500" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dJYUc57bpImzY5HQhhGf-2" parent="dJYUc57bpImzY5HQhhGf-1" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=light-dark(#FFFFFF,#577391);rounded=0;glass=0;shadow=0;swimlaneFillColor=light-dark(#008A00,#7195BD);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sales Department&lt;/font&gt;" vertex="1">
+          <mxGeometry height="230" width="1500" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dJYUc57bpImzY5HQhhGf-17" parent="dJYUc57bpImzY5HQhhGf-1" style="swimlane;html=1;startSize=20;horizontal=0;swimlaneFillColor=light-dark(#FFFFFF,#0074FF);fillColor=light-dark(#FA6800,#0074FF);strokeColor=light-dark(#C73500,#000000);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
+          <mxGeometry height="280" width="1500" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="dJYUc57bpImzY5HQhhGf-32" parent="dJYUc57bpImzY5HQhhGf-17" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;" value="--&amp;gt; Continued Page 2" vertex="1">
+          <mxGeometry height="80" width="129" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dJYUc57bpImzY5HQhhGf-33" parent="dJYUc57bpImzY5HQhhGf-1" style="swimlane;html=1;startSize=20;horizontal=0;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#001F3B);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Billing/Accounts Receivables&lt;/font&gt;" vertex="1">
+          <mxGeometry height="210" width="1500" y="530" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
