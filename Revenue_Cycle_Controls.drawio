@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a0micC5ugB_HK9oQdnx8" name="Page 2">
-    <mxGraphModel dx="1671" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,7 +217,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="76uGkkmH-YUaUUi4PI40-2" edge="1" parent="dJYUc57bpImzY5HQhhGf-1" source="9vZio390zBogGkKmuPAx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="76uGkkmH-YUaUUi4PI40-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="310" />
+              <mxPoint x="140" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVSeUNaKIdEkvw5UEWNu-1" connectable="0" parent="76uGkkmH-YUaUUi4PI40-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 13px; background-color: light-dark(rgb(255, 255, 255), rgb(222, 255, 187)); color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Cross-lane&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.743" y="2" as="geometry">
+            <mxPoint x="38" y="-27" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
