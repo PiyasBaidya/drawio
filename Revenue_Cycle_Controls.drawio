@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="Page 1" id="ZtmFrplY7LRKWJ1rupmG">
-    <mxGraphModel dx="681" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-2" parent="-xtGhPN8pFAunB1CJF6B-1" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=light-dark(#FFFFFF,#577391);rounded=0;glass=0;shadow=0;swimlaneFillColor=light-dark(#008A00,#7195BD);strokeColor=light-dark(#000000,#FFFFFF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Sales Department&lt;/font&gt;" vertex="1">
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-2" parent="-xtGhPN8pFAunB1CJF6B-1" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=light-dark(#FFFFFF,#577391);rounded=0;glass=0;shadow=0;swimlaneFillColor=light-dark(#008A00,#7195BD);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Sales Department&lt;/font&gt;" vertex="1">
           <mxGeometry height="350" width="1580" y="20" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-8" edge="1" parent="-xtGhPN8pFAunB1CJF6B-2" source="-xtGhPN8pFAunB1CJF6B-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-7">
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a0micC5ugB_HK9oQdnx8" name="Page 2">
-    <mxGraphModel dx="1838" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
