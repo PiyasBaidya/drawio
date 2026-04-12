@@ -125,6 +125,9 @@
         <mxCell id="4i935ksmFfJT_Kkd7YFX-1" parent="-xtGhPN8pFAunB1CJF6B-3" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;fillColor=light-dark(#FFFFFF,#B3B3B3);" value="&lt;font face=&quot;Tahoma&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot;&gt;--&amp;gt; Continued Page 2&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="150" x="1350" y="17.5" as="geometry" />
         </mxCell>
+        <mxCell id="hZ8jwsb7N4OTuJEwBC2Y-1" edge="1" parent="-xtGhPN8pFAunB1CJF6B-1" source="-xtGhPN8pFAunB1CJF6B-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8a3UWYT5UaJ9BD2dn3Ge-1" parent="1" style="html=1;dashed=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#FFFFFF);gradientColor=light-dark(#000000,#FF446A);" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;Control Activity CA-01&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;&lt;i&gt;If a customer is unable to provide a valid payment method during their checkout process, the system will reject their order. The process will only continue when the customer&#39;s payment method is approved.&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="340" x="1560" y="90" as="geometry" />
         </mxCell>
