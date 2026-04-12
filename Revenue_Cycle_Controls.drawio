@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="Page 1" id="ZtmFrplY7LRKWJ1rupmG">
-    <mxGraphModel dx="1313" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1671" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="-xtGhPN8pFAunB1CJF6B-14" parent="-xtGhPN8pFAunB1CJF6B-2" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F0A30A,#DE7F00);fontColor=#000000;strokeColor=light-dark(#BD7000,#000000);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Credit Check&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Approved?&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="150" x="960" y="7.5" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-22" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;dashed=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#F20000);strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Order Rejected -&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Customer Notified&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-22" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;dashed=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#F20000);strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;dashPattern=12 12;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Order Rejected -&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Customer Notified&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="62" width="220" x="925" y="172" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-37" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Sales Order Authorized &amp;amp; Released to Warehouse&lt;/font&gt;" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="-xtGhPN8pFAunB1CJF6B-41" parent="-xtGhPN8pFAunB1CJF6B-3" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F0A30A,#DE7F00);fontColor=#000000;strokeColor=light-dark(#BD7000,#000000);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Inventory&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Available?&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="150" x="310" y="18.75" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-49" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#F20000);strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;" value="&lt;font color=&quot;#000000&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 13px;&quot;&gt;Escalate to Manager -&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 13px;&quot;&gt;Back-Order or Cancel&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-49" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#F20000);strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;dashPattern=12 12;" value="&lt;font color=&quot;#000000&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 13px;&quot;&gt;Escalate to Manager -&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 13px;&quot;&gt;Back-Order or Cancel&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="62" width="220" x="275" y="160" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-50" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Goods Picked &amp;amp; Packed&lt;/font&gt;" vertex="1">
