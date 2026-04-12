@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="Page 1" id="ZtmFrplY7LRKWJ1rupmG">
-    <mxGraphModel dx="735" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ADW8CP7pkuHdF-xrv1V-5" connectable="0" parent="8ADW8CP7pkuHdF-xrv1V-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(222, 255, 187));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; face=&quot;Tahoma&quot;&gt;Cross-lane handoff&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="8ADW8CP7pkuHdF-xrv1V-5" connectable="0" parent="8ADW8CP7pkuHdF-xrv1V-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(222, 255, 187));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Cross-lane handoff&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.516" y="-1" as="geometry">
             <mxPoint y="-9" as="offset" />
           </mxGeometry>
