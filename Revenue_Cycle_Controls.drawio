@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="Page 1" id="ZtmFrplY7LRKWJ1rupmG">
-    <mxGraphModel dx="1414" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1557" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=light-dark(#FA6800,#FFFFFF);strokeColor=light-dark(#000000,#000000);swimlaneFillColor=light-dark(#FFFFFF,#001F3B);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Kissena Bakery - Revenue Cycle (Order-to-Cash)&lt;/font&gt;" vertex="1">
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=light-dark(#FA6800,#99FFFF);strokeColor=light-dark(#000000,#000000);swimlaneFillColor=light-dark(#FFFFFF,#001F3B);fontColor=#000000;" value="&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; face=&quot;Georgia&quot;&gt;Kissena Bakery - Revenue Cycle (Order-to-Cash)&lt;/font&gt;" vertex="1">
           <mxGeometry height="720" width="1580" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-40" edge="1" parent="-xtGhPN8pFAunB1CJF6B-1" source="-xtGhPN8pFAunB1CJF6B-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-38">
@@ -22,22 +22,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-6" parent="-xtGhPN8pFAunB1CJF6B-2" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=light-dark(#60A917,#76E017);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#325023);dashed=1;dashPattern=1 1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;START&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="115" x="25" y="17.5" as="geometry" />
+          <mxGeometry height="60" width="115" x="27" y="25.5" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-10" edge="1" parent="-xtGhPN8pFAunB1CJF6B-2" source="-xtGhPN8pFAunB1CJF6B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-7" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#1BA1E2,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Customer Places Order&lt;/font&gt;" vertex="1">
-          <mxGeometry height="75" width="220" x="210" y="10" as="geometry" />
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-7" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#1BA1E2,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Customer Places Order&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="220" x="213" y="18" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-9" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=light-dark(#008A00,#FFFF66);strokeColor=light-dark(#005700,#666600);fontColor=#ffffff;" value="&lt;div&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Order Details Entered into System&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="140" x="500" y="12.5" as="geometry" />
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-9" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;strokeWidth=1;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=light-dark(#008A00,#FFFF00);strokeColor=light-dark(#005700,#000000);fontColor=#ffffff;" value="&lt;div&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Order Details Entered into System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="500" y="20.5" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-17" edge="1" parent="-xtGhPN8pFAunB1CJF6B-2" source="-xtGhPN8pFAunB1CJF6B-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-11" parent="-xtGhPN8pFAunB1CJF6B-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;strokeColor=light-dark(#000000,#FF33FF);fillColor=light-dark(#FFFFFF,#FFCCFF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Sales Order Generated&lt;/font&gt;" vertex="1">
-          <mxGeometry height="77.5" width="145" x="750" y="8.75" as="geometry" />
+          <mxGeometry height="77.5" width="145" x="756" y="17.75" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-19" edge="1" parent="-xtGhPN8pFAunB1CJF6B-2" source="-xtGhPN8pFAunB1CJF6B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-37">
           <mxGeometry relative="1" as="geometry">
@@ -54,17 +54,17 @@
         </mxCell>
         <mxCell id="8ADW8CP7pkuHdF-xrv1V-3" connectable="0" parent="8ADW8CP7pkuHdF-xrv1V-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Tahoma&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: light-dark(rgb(222, 255, 187), rgb(222, 255, 187));&quot;&gt;No - Rejected&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1335" y="-2" as="geometry">
-            <mxPoint x="47" y="26" as="offset" />
+            <mxPoint x="43" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-14" parent="-xtGhPN8pFAunB1CJF6B-2" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F0A30A,#DE7F00);fontColor=#000000;strokeColor=light-dark(#BD7000,#000000);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Credit Check&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Approved?&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="150" x="960" y="7.5" as="geometry" />
+          <mxGeometry height="80" width="150" x="980" y="16.5" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-22" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;dashed=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#F20000);strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;dashPattern=12 12;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Order Rejected -&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Customer Notified&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="62" width="220" x="925" y="172" as="geometry" />
+          <mxGeometry height="62" width="220" x="945" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-37" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Sales Order Authorized &amp;amp; Released to Warehouse&lt;/font&gt;" vertex="1">
-          <mxGeometry height="75" width="220" x="1240" y="10" as="geometry" />
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-37" parent="-xtGhPN8pFAunB1CJF6B-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Sales Order Authorized &amp;amp; Released to Warehouse&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="220" x="1270" y="19" as="geometry" />
         </mxCell>
         <mxCell id="uryAfPfQQ-_epalbaUih-2" edge="1" parent="-xtGhPN8pFAunB1CJF6B-2" source="-xtGhPN8pFAunB1CJF6B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-xtGhPN8pFAunB1CJF6B-11">
           <mxGeometry relative="1" as="geometry" />
@@ -80,8 +80,8 @@
         <mxCell id="-xtGhPN8pFAunB1CJF6B-42" edge="1" parent="-xtGhPN8pFAunB1CJF6B-3" source="-xtGhPN8pFAunB1CJF6B-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-38" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Sales Order Received by Warehouse&lt;/font&gt;" vertex="1">
-          <mxGeometry height="75" width="220" x="30" y="21.25" as="geometry" />
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-38" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Sales Order Received by Warehouse&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="220" x="30" y="32.25" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-45" edge="1" parent="-xtGhPN8pFAunB1CJF6B-3" source="-xtGhPN8pFAunB1CJF6B-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-50">
           <mxGeometry relative="1" as="geometry">
@@ -104,19 +104,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-41" parent="-xtGhPN8pFAunB1CJF6B-3" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F0A30A,#DE7F00);fontColor=#000000;strokeColor=light-dark(#BD7000,#000000);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Inventory&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Available?&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="150" x="310" y="18.75" as="geometry" />
+          <mxGeometry height="80" width="150" x="310" y="29.75" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-49" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#F20000);strokeColor=light-dark(#000000,#FFFFFF);strokeWidth=2;dashPattern=12 12;" value="&lt;font color=&quot;#000000&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 13px;&quot;&gt;Escalate to Manager -&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 13px;&quot;&gt;Back-Order or Cancel&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="62" width="220" x="275" y="160" as="geometry" />
+          <mxGeometry height="62" width="220" x="275" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-50" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Goods Picked &amp;amp; Packed&lt;/font&gt;" vertex="1">
-          <mxGeometry height="75" width="220" x="560" y="21.25" as="geometry" />
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-50" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Goods Picked &amp;amp; Packed&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="220" x="561" y="32.25" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-54" edge="1" parent="-xtGhPN8pFAunB1CJF6B-3" source="-xtGhPN8pFAunB1CJF6B-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-51" parent="-xtGhPN8pFAunB1CJF6B-3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;fillColor=light-dark(#FFFFFF,#FFCCFF);strokeColor=light-dark(#000000,#FF33FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Packing Slip Generated&lt;/font&gt;" vertex="1">
-          <mxGeometry height="77.5" width="145" x="890" y="20" as="geometry" />
+          <mxGeometry height="77.5" width="145" x="890" y="31" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-52" edge="1" parent="-xtGhPN8pFAunB1CJF6B-3" source="-xtGhPN8pFAunB1CJF6B-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-xtGhPN8pFAunB1CJF6B-51">
           <mxGeometry relative="1" as="geometry" />
@@ -131,46 +131,44 @@
             <mxPoint x="1342" y="57.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-53" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Shipping Authorization Verified&lt;/font&gt;" vertex="1">
-          <mxGeometry height="75" width="220" x="1120" y="21.25" as="geometry" />
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-53" parent="-xtGhPN8pFAunB1CJF6B-3" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Shipping Authorization Verified&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="220" x="1120" y="33.25" as="geometry" />
         </mxCell>
         <mxCell id="4i935ksmFfJT_Kkd7YFX-1" parent="-xtGhPN8pFAunB1CJF6B-3" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;fillColor=light-dark(#FFFFFF,#B3B3B3);" value="&lt;font face=&quot;Tahoma&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot;&gt;--&amp;gt; Continued Page 2&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="150" x="1420" y="20" as="geometry" />
+          <mxGeometry height="80" width="150" x="1420" y="31" as="geometry" />
         </mxCell>
-        <mxCell id="AJS_EpYXHp3_C_bAUl4b-1" edge="1" parent="-xtGhPN8pFAunB1CJF6B-1" source="-xtGhPN8pFAunB1CJF6B-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-38">
+        <mxCell id="qOtxs84Onra1hM39qwiD-2" edge="1" parent="-xtGhPN8pFAunB1CJF6B-1" source="-xtGhPN8pFAunB1CJF6B-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1350" y="310" />
-              <mxPoint x="140" y="310" />
+              <mxPoint x="1380" y="320" />
+              <mxPoint x="140" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AJS_EpYXHp3_C_bAUl4b-2" connectable="0" parent="AJS_EpYXHp3_C_bAUl4b-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=light-dark(#FFFFFF,#DEFFBB);fontColor=light-dark(#000000,#000000);fontFamily=Tahoma;fontSize=13;" value="Cross-lane handoff" vertex="1">
-          <mxGeometry relative="1" x="0.6814" y="3" as="geometry">
-            <mxPoint y="-13" as="offset" />
+        <mxCell id="SA-XKNF6kgvgR0bGxUiN-1" connectable="0" parent="qOtxs84Onra1hM39qwiD-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 13px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: light-dark(rgb(255, 255, 255), rgb(222, 255, 187));&quot; face=&quot;Tahoma&quot;&gt;Cross-lane handoff&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.7925" as="geometry">
+            <mxPoint x="4" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8a3UWYT5UaJ9BD2dn3Ge-1" parent="1" style="html=1;dashed=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#FFFFFF);gradientColor=light-dark(#000000,#FF446A);" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;Control Activity CA-01&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;&lt;i&gt;If a customer is unable to provide a valid payment method during their checkout process, the system will reject their order. This process exists to approve the customer&#39;s payment method once it is valid.&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="H9bn4lS0LX_lle9mCVqn-1" edge="1" parent="1" source="8a3UWYT5UaJ9BD2dn3Ge-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="-xtGhPN8pFAunB1CJF6B-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1103" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8a3UWYT5UaJ9BD2dn3Ge-1" parent="1" style="html=1;dashed=1;whiteSpace=wrap;align=center;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#FFFFFF);gradientColor=light-dark(#000000,#FF446A);" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;Control Activity CA-01&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Tahoma&quot;&gt;&lt;i&gt;Credit check ensures that only customers with valid credit are allowed to continue with order processing. This process exists to reduce credit risk and to only approve customer&#39;s who can fulfill payment. Without the credit check, customers with invalid credit would be allowed to process orders which in return hurts company assets.&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="340" x="1600" y="104" as="geometry" />
-        </mxCell>
-        <mxCell id="8a3UWYT5UaJ9BD2dn3Ge-4" edge="1" parent="1" source="8a3UWYT5UaJ9BD2dn3Ge-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.824;entryY=0.744;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" target="-xtGhPN8pFAunB1CJF6B-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1560" y="160" />
-              <mxPoint x="1090" y="160" />
-              <mxPoint x="1090" y="97" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="a0micC5ugB_HK9oQdnx8" name="Page 2">
-    <mxGraphModel dx="1671" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dJYUc57bpImzY5HQhhGf-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=light-dark(#FA6800,#FFFFFF);strokeColor=light-dark(#000000,#000000);swimlaneFillColor=light-dark(#FFFFFF,#001F3B);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Kissena Bakery - Revenue Cycle (Order-to-Cash)&lt;/font&gt;" vertex="1">
+        <mxCell id="dJYUc57bpImzY5HQhhGf-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;whiteSpace=wrap;fillColor=light-dark(#FA6800,#99FFFF);strokeColor=light-dark(#000000,#000000);swimlaneFillColor=light-dark(#FFFFFF,#001F3B);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Kissena Bakery - Revenue Cycle (Order-to-Cash)&lt;/font&gt;" vertex="1">
           <mxGeometry height="720" width="1630" x="11" y="10" as="geometry" />
         </mxCell>
         <mxCell id="dJYUc57bpImzY5HQhhGf-17" parent="dJYUc57bpImzY5HQhhGf-1" style="swimlane;html=1;startSize=20;horizontal=0;swimlaneFillColor=light-dark(#FFFFFF,#0074FF);fillColor=light-dark(#FA6800,#0074FF);strokeColor=light-dark(#C73500,#000000);fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
@@ -180,17 +178,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dJYUc57bpImzY5HQhhGf-32" parent="dJYUc57bpImzY5HQhhGf-17" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;fillColor=light-dark(#FFFFFF,#B3B3B3);" value="&lt;font style=&quot;font-size: 13px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; face=&quot;Tahoma&quot;&gt;--&amp;gt; Continued Page 2&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="150" x="30" y="10" as="geometry" />
+          <mxGeometry height="80" width="150" x="30" y="21" as="geometry" />
         </mxCell>
-        <mxCell id="9vZio390zBogGkKmuPAx-1" parent="dJYUc57bpImzY5HQhhGf-17" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Goods Dispatched&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;to Customer&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="75" width="220" x="259" y="12.5" as="geometry" />
+        <mxCell id="9vZio390zBogGkKmuPAx-1" parent="dJYUc57bpImzY5HQhhGf-17" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Goods Dispatched&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;to Customer&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="220" x="259" y="23.5" as="geometry" />
         </mxCell>
         <mxCell id="dJYUc57bpImzY5HQhhGf-33" parent="dJYUc57bpImzY5HQhhGf-1" style="swimlane;html=1;startSize=20;horizontal=0;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#001F3B);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;Billing/Accounts Receivable&lt;/font&gt;" vertex="1">
           <mxGeometry height="350" width="1630" y="370" as="geometry">
             <mxRectangle height="40" width="1630" y="370" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="76uGkkmH-YUaUUi4PI40-1" parent="dJYUc57bpImzY5HQhhGf-33" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Dispatch Confirmation&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Received&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="76uGkkmH-YUaUUi4PI40-1" parent="dJYUc57bpImzY5HQhhGf-33" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Dispatch Confirmation&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Received&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="220" x="30" y="45" as="geometry" />
         </mxCell>
         <mxCell id="dm8GOhfkuJstE-GKC8nv-8" edge="1" parent="dJYUc57bpImzY5HQhhGf-33" source="dm8GOhfkuJstE-GKC8nv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dm8GOhfkuJstE-GKC8nv-7">
@@ -199,7 +197,7 @@
         <mxCell id="dm8GOhfkuJstE-GKC8nv-1" parent="dJYUc57bpImzY5HQhhGf-33" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;fillColor=light-dark(#FFFFFF,#FFCCFF);strokeColor=light-dark(#000000,#FF33FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Invoice Generated &amp;amp; Sent to Customer&lt;/font&gt;" vertex="1">
           <mxGeometry height="77.5" width="145" x="379" y="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="dm8GOhfkuJstE-GKC8nv-7" parent="dJYUc57bpImzY5HQhhGf-33" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Payment Received from Customer&lt;/font&gt;" vertex="1">
+        <mxCell id="dm8GOhfkuJstE-GKC8nv-7" parent="dJYUc57bpImzY5HQhhGf-33" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Payment Received from Customer&lt;/font&gt;" vertex="1">
           <mxGeometry height="75" width="220" x="589" y="44.75" as="geometry" />
         </mxCell>
         <mxCell id="dm8GOhfkuJstE-GKC8nv-28" edge="1" parent="dJYUc57bpImzY5HQhhGf-33" source="dm8GOhfkuJstE-GKC8nv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dm8GOhfkuJstE-GKC8nv-27">
@@ -216,7 +214,7 @@
             <mxPoint x="7" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dm8GOhfkuJstE-GKC8nv-27" parent="dJYUc57bpImzY5HQhhGf-33" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Cash Posted to Accounts Receivable&lt;/font&gt;" vertex="1">
+        <mxCell id="dm8GOhfkuJstE-GKC8nv-27" parent="dJYUc57bpImzY5HQhhGf-33" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=4;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Cash Posted to Accounts Receivable&lt;/font&gt;" vertex="1">
           <mxGeometry height="75" width="220" x="1219" y="45" as="geometry" />
         </mxCell>
         <mxCell id="hntHcgfhO394N8YKVbZU-1" parent="dJYUc57bpImzY5HQhhGf-33" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=light-dark(#60A917,#76E017);fontColor=#ffffff;strokeColor=light-dark(#2D7600,#325023);dashed=1;dashPattern=1 2;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;END&lt;/font&gt;&lt;/b&gt;" vertex="1">
@@ -241,7 +239,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dqUbzB3nmjcaremkSEZC-2" connectable="0" parent="dqUbzB3nmjcaremkSEZC-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 13px; background-color: light-dark(rgb(255, 255, 255), rgb(222, 255, 187)); color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Cross lane&lt;/font&gt;" vertex="1">
+        <mxCell id="dqUbzB3nmjcaremkSEZC-2" connectable="0" parent="dqUbzB3nmjcaremkSEZC-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 13px; background-color: light-dark(rgb(255, 255, 255), rgb(222, 255, 187)); color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Cross-lane handoff&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1911" y="9" as="geometry">
             <mxPoint x="1" y="-19" as="offset" />
           </mxGeometry>
