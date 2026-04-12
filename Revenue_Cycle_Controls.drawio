@@ -36,7 +36,7 @@
         <mxCell id="-xtGhPN8pFAunB1CJF6B-17" edge="1" parent="-xtGhPN8pFAunB1CJF6B-2" source="-xtGhPN8pFAunB1CJF6B-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-11" parent="-xtGhPN8pFAunB1CJF6B-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFCCFF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Sales Order Generated&lt;/font&gt;" vertex="1">
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-11" parent="-xtGhPN8pFAunB1CJF6B-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;strokeColor=light-dark(#000000,#FF33FF);fillColor=light-dark(#FFFFFF,#FFCCFF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Sales Order Generated&lt;/font&gt;" vertex="1">
           <mxGeometry height="77.5" width="145" x="750" y="8.75" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-19" edge="1" parent="-xtGhPN8pFAunB1CJF6B-2" source="-xtGhPN8pFAunB1CJF6B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-37">
@@ -115,7 +115,7 @@
         <mxCell id="-xtGhPN8pFAunB1CJF6B-54" edge="1" parent="-xtGhPN8pFAunB1CJF6B-3" source="-xtGhPN8pFAunB1CJF6B-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-xtGhPN8pFAunB1CJF6B-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-xtGhPN8pFAunB1CJF6B-51" parent="-xtGhPN8pFAunB1CJF6B-3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;fillColor=light-dark(#FFFFFF,#FFCCFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Packing Slip Generated&lt;/font&gt;" vertex="1">
+        <mxCell id="-xtGhPN8pFAunB1CJF6B-51" parent="-xtGhPN8pFAunB1CJF6B-3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;fillColor=light-dark(#FFFFFF,#FFCCFF);strokeColor=light-dark(#000000,#FF33FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Packing Slip Generated&lt;/font&gt;" vertex="1">
           <mxGeometry height="77.5" width="145" x="890" y="20" as="geometry" />
         </mxCell>
         <mxCell id="-xtGhPN8pFAunB1CJF6B-52" edge="1" parent="-xtGhPN8pFAunB1CJF6B-3" source="-xtGhPN8pFAunB1CJF6B-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-xtGhPN8pFAunB1CJF6B-51">
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a0micC5ugB_HK9oQdnx8" name="Page 2">
-    <mxGraphModel dx="1313" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
         <mxCell id="dm8GOhfkuJstE-GKC8nv-8" edge="1" parent="dJYUc57bpImzY5HQhhGf-33" source="dm8GOhfkuJstE-GKC8nv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dm8GOhfkuJstE-GKC8nv-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dm8GOhfkuJstE-GKC8nv-1" parent="dJYUc57bpImzY5HQhhGf-33" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;fillColor=light-dark(#FFFFFF,#FFCCFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Invoice Generated &amp;amp; Sent to Customer&lt;/font&gt;" vertex="1">
+        <mxCell id="dm8GOhfkuJstE-GKC8nv-1" parent="dJYUc57bpImzY5HQhhGf-33" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;fillColor=light-dark(#FFFFFF,#FFCCFF);strokeColor=light-dark(#000000,#FF33FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Invoice Generated &amp;amp; Sent to Customer&lt;/font&gt;" vertex="1">
           <mxGeometry height="77.5" width="145" x="379" y="18.5" as="geometry" />
         </mxCell>
         <mxCell id="dm8GOhfkuJstE-GKC8nv-7" parent="dJYUc57bpImzY5HQhhGf-33" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#AF82FF);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#6D3E9A);strokeWidth=3;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Payment Received from Customer&lt;/font&gt;" vertex="1">
@@ -205,7 +205,7 @@
         <mxCell id="dm8GOhfkuJstE-GKC8nv-28" edge="1" parent="dJYUc57bpImzY5HQhhGf-33" source="dm8GOhfkuJstE-GKC8nv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dm8GOhfkuJstE-GKC8nv-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dm8GOhfkuJstE-GKC8nv-15" parent="dJYUc57bpImzY5HQhhGf-33" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;fillColor=light-dark(#FFFFFF,#FFCCFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Remittance Advice Recorded&lt;/font&gt;" vertex="1">
+        <mxCell id="dm8GOhfkuJstE-GKC8nv-15" parent="dJYUc57bpImzY5HQhhGf-33" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;flipV=0;flipH=1;fillColor=light-dark(#FFFFFF,#FFCCFF);strokeColor=light-dark(#000000,#FF33FF);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Tahoma&quot;&gt;Remittance Advice Recorded&lt;/font&gt;" vertex="1">
           <mxGeometry height="77.5" width="145" x="989" y="18.5" as="geometry" />
         </mxCell>
         <mxCell id="dm8GOhfkuJstE-GKC8nv-16" edge="1" parent="dJYUc57bpImzY5HQhhGf-33" source="dm8GOhfkuJstE-GKC8nv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="dm8GOhfkuJstE-GKC8nv-15">
